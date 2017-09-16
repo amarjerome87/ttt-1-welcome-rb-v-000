@@ -1,2 +1,2 @@
-puts "WELCOME TO TIC TAC TOE"
+puts "WELCOME to Tic Tac Toe!"
 # ruby lib/welcome.rb from your terminal.
